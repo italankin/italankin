@@ -1,16 +1,12 @@
-### Hi there 👋
+### Android Developer
 
-<!--
-**italankin/italankin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Personal blog:
+* [italankin.me](https://italankin.me)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Notable projects:
+##### Android
+* [15 puzzle](https://15puzzle.app)
+* [Fifteen](https://play.google.com/store/apps/details?id=com.italankin.fifteen2) (a new version of 15 puzzle)
+* [lnch](https://play.google.com/store/apps/details?id=com.italankin.lnch)
+##### Telegram bots
+* [Sample Voice Bot](https://t.me/samplevoicebot)
